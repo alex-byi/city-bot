@@ -1,0 +1,10 @@
+INSERT INTO cities (id, city, message) VALUES (1,'москва', 'Не забудьте посетить Красную Площадь. Ну а в ЦУМ можно и не заходить)))');
+INSERT INTO cities (id, city, message) VALUES (2, 'минск', 'Не забудьте посетить Шабаны. Ну а в ЦУМ уже и не захочется');
+INSERT INTO cities (id, city, message) VALUES (3, 'киев', 'Не забудьте посетить Подземное водохранилище. Больше никуда не захочется');
+INSERT INTO cities (id, city, message) VALUES (4, 'вильнюс', 'Не забудьте посетить Uptown Bazaar. Ну а потом зайдите в Башню Гедимина');
+INSERT INTO cities (id, city, message) VALUES (5, 'каунас', 'Не забудьте посетить Музей Чертей . Зайдите в Каунасский замок');
+INSERT INTO cities (id, city, message) VALUES (6, 'варшава', 'Не забудьте посетить Королевский замок');
+INSERT INTO cities (id, city, message) VALUES (7, 'прага', 'Не забудьте посетить Танцующий дом. И гуляйте в центре');
+INSERT INTO cities (id, city, message) VALUES (8, 'рига', 'Не забудьте посетить Дом черноголовых.');
+INSERT INTO cities (id, city, message) VALUES (9, 'гданьск', 'Не забудьте посетить Вестерплатте. Выпейте кофе на побережье');
+INSERT INTO cities (id, city, message) VALUES (10, 'будапешт', 'Не забудьте посетить Королевский дворец');
